@@ -1,0 +1,15 @@
+.package a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    padding: 32px;
+    border: 10px;
+    border-color: black;
+
+}
+
+#plan{
+
+    background-color: aquamarine;
+    margin: 50px 200px 10px 0px;
+}
